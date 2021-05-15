@@ -1,2 +1,3 @@
 # diesel-sqlite-test-exercise
-A project where I am trying to get diesel to run with sqlite
+
+[here](https://fdeantoni.medium.com/rust-actix-diesel-sqlite-d67a1c3ef0e) you can find the tutorial I used
